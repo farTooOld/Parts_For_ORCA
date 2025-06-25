@@ -5,6 +5,8 @@ ORCA-Slicer is used as basis for some rebranded Slicers and have built a small c
 
 These parts can be used as Parts, Positive and Negative (Parts) for building and/or modifying Parts (primarily for User's not wanting to use CAD.
 
+Two GIF-Video's Show Demonstration
+
 # Parts include:
 • Edge Radius
 • Inner and Outer Corner Radius
