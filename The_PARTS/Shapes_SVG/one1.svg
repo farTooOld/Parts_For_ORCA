@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="15.2mm"
+   viewBox="0 0 371.99998 152"
+   width="37.199997mm"
+   version="1.2"
+   id="svg131"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <title
+     id="title1">FreeCAD SVG Export</title>
+  <desc
+     id="desc1">Drawing page: Page exported from FreeCAD document: tofu</desc>
+  <defs
+     id="defs1" />
+  <g
+     id="Page"
+     transform="translate(-1208.69,-1492.26)">
+    <g
+       id="g131"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+      <g
+         fill="#ffffff"
+         font-style="normal"
+         fill-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="none"
+         font-size="45.8611px"
+         font-weight="400"
+         id="g2"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m -181.132,25 v -80 l 20,-20 h 69.882 l -17.5,50 h 217.5 l -17.5,-50 h 69.882 l 20,20 v 80 h -25 L 185,75 h -370 l 28.868,-50 h -25"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path1"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="1.3"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#a6a6a6"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g3"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="M -181.132,25 V -55"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path2"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="1.3"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#a6a6a6"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g4"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m -181.132,-55 20,-20"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path3"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="1.3"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#a6a6a6"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g5"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m -156.132,25 h -25"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path4"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="1.3"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#a6a6a6"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="M -161.132,-75 H -91.25"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path5"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="1.3"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#a6a6a6"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g7"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m -185,75 28.868,-50"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path6"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="1.3"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#a6a6a6"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g8"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m -91.25,-75 -17.5,50"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path7"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="1.3"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#a6a6a6"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="M 185,75 H -185"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path8"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="1.3"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#a6a6a6"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g10"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m -108.75,-25 h 217.5"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path9"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="1.3"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#a6a6a6"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g11"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="M 156.132,25 185,75"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path10"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="1.3"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#a6a6a6"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g12"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="M 108.75,-25 91.25,-75"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path11"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="1.3"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#a6a6a6"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g13"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m 181.132,25 h -25"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path12"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="1.3"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#a6a6a6"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g14"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m 91.25,-75 h 69.882"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path13"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="1.3"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#a6a6a6"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g15"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="M 181.132,-55 V 25"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path14"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="1.3"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#a6a6a6"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g16"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m 161.132,-75 20,20"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path15"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="2.5"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#000000"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g19"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="M -181.132,25 V -55"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path18"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="2.5"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#000000"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g20"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m -181.132,-55 20,-20"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path19"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="2.5"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#000000"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g21"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m -156.132,25 h -25"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path20"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="2.5"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#000000"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g22"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="M -161.132,-75 H -91.25"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path21"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="2.5"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#000000"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g23"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m -185,75 28.868,-50"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path22"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="2.5"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#000000"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g24"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m -91.25,-75 -17.5,50"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path23"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="2.5"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#000000"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g25"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="M 185,75 H -185"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path24"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="2.5"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#000000"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g26"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m -108.75,-25 h 217.5"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path25"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="2.5"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#000000"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g27"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="M 156.132,25 185,75"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path26"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="2.5"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#000000"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g28"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="M 108.75,-25 91.25,-75"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path27"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="2.5"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#000000"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g29"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m 181.132,25 h -25"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path28"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="2.5"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#000000"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g30"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m 91.25,-75 h 69.882"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path29"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="2.5"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#000000"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g31"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="M 181.132,-55 V 25"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path30"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         fill="none"
+         font-style="normal"
+         stroke-width="2.5"
+         stroke-opacity="1"
+         transform="translate(1394.69,1568.26)"
+         font-family="'.AppleSystemUIFont'"
+         stroke="#000000"
+         stroke-linejoin="bevel"
+         font-size="45.8611px"
+         font-weight="400"
+         stroke-linecap="round"
+         id="g32"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m 161.132,-75 20,20"
+           fill-rule="evenodd"
+           vector-effect="none"
+           id="path31"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
