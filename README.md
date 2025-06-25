@@ -13,14 +13,23 @@ Two GIF-Video's Show Demonstration
 • Inner and Outer Corner Radius
 
 • Edge Chamfer
+
 • Cap/Cover (to put Radius'd edge on Cylinder's)
+
 • Gear
+
 • Shaft (for the Gear)
+
 • Cylindrical Radius for mounting Boss's interface to the Gear
+
 • Bolts
+
 • Losmandy Slide Mount (used a Negative to Pocket the large Cube)
+
 • M50x20 Threaded Cylinder
+
 • Circular Ring (for the M50x20)
+
 • Oval (primarily for Oblong Holes)
 
 GIF shows the Inner-Radius part as a Non-Homogeneous sliced item (I improperly placed it to show that if Not doing it correctly, it will Slice in manner that may Not be Contiguously Infilled (so, I set it's height 1mm above the Cube to easiy identify it).
