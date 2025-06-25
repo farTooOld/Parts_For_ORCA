@@ -8,8 +8,10 @@ These parts can be used as Parts, Positive and Negative (Parts) for building and
 Two GIF-Video's Show Demonstration
 
 # Parts include:
-• Edge Radius.
-• Inner and Outer Corner Radius.
+• Edge Radius
+
+• Inner and Outer Corner Radius
+
 • Edge Chamfer
 • Cap/Cover (to put Radius'd edge on Cylinder's)
 • Gear
