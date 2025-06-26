@@ -7,7 +7,7 @@ These parts can be used as Parts, Positive and Negative (Parts) for building and
 
 Two GIF-Video's Show Demonstration
 
-Each Folder has a Screenshot file of Graphic's for most of the Parts... I won't update the Graphic when I add/delete Parts...
+Each Folder has an INFO File (a Screenshot of Graphic's for most of the Parts). I won't update the Graphic when I add/delete Parts...
 Some STL's don't play well with GitHub's viewer and STEP's are not currently displayable graphically in GitHub
 
 # Parts include:
